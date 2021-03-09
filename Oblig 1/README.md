@@ -1,2 +1,2 @@
 # INFO180 - Assignment # 1
-Solved an Eight Game in fewest moves possible
+Solved an Eight Game in fewest moves possible using A*
